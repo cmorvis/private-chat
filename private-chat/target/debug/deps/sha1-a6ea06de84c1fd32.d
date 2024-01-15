@@ -1,0 +1,11 @@
+/run/media/caleb/2 TB/private-chat/private-chat/private-chat/target/debug/deps/libsha1-a6ea06de84c1fd32.rmeta: /home/caleb/.cargo/registry/src/index.crates.io-6f17d22bba15001f/sha-1-0.9.8/src/lib.rs /home/caleb/.cargo/registry/src/index.crates.io-6f17d22bba15001f/sha-1-0.9.8/src/compress.rs /home/caleb/.cargo/registry/src/index.crates.io-6f17d22bba15001f/sha-1-0.9.8/src/consts.rs /home/caleb/.cargo/registry/src/index.crates.io-6f17d22bba15001f/sha-1-0.9.8/src/compress/soft.rs /home/caleb/.cargo/registry/src/index.crates.io-6f17d22bba15001f/sha-1-0.9.8/src/compress/x86.rs
+
+/run/media/caleb/2 TB/private-chat/private-chat/private-chat/target/debug/deps/libsha1-a6ea06de84c1fd32.rlib: /home/caleb/.cargo/registry/src/index.crates.io-6f17d22bba15001f/sha-1-0.9.8/src/lib.rs /home/caleb/.cargo/registry/src/index.crates.io-6f17d22bba15001f/sha-1-0.9.8/src/compress.rs /home/caleb/.cargo/registry/src/index.crates.io-6f17d22bba15001f/sha-1-0.9.8/src/consts.rs /home/caleb/.cargo/registry/src/index.crates.io-6f17d22bba15001f/sha-1-0.9.8/src/compress/soft.rs /home/caleb/.cargo/registry/src/index.crates.io-6f17d22bba15001f/sha-1-0.9.8/src/compress/x86.rs
+
+/run/media/caleb/2 TB/private-chat/private-chat/private-chat/target/debug/deps/sha1-a6ea06de84c1fd32.d: /home/caleb/.cargo/registry/src/index.crates.io-6f17d22bba15001f/sha-1-0.9.8/src/lib.rs /home/caleb/.cargo/registry/src/index.crates.io-6f17d22bba15001f/sha-1-0.9.8/src/compress.rs /home/caleb/.cargo/registry/src/index.crates.io-6f17d22bba15001f/sha-1-0.9.8/src/consts.rs /home/caleb/.cargo/registry/src/index.crates.io-6f17d22bba15001f/sha-1-0.9.8/src/compress/soft.rs /home/caleb/.cargo/registry/src/index.crates.io-6f17d22bba15001f/sha-1-0.9.8/src/compress/x86.rs
+
+/home/caleb/.cargo/registry/src/index.crates.io-6f17d22bba15001f/sha-1-0.9.8/src/lib.rs:
+/home/caleb/.cargo/registry/src/index.crates.io-6f17d22bba15001f/sha-1-0.9.8/src/compress.rs:
+/home/caleb/.cargo/registry/src/index.crates.io-6f17d22bba15001f/sha-1-0.9.8/src/consts.rs:
+/home/caleb/.cargo/registry/src/index.crates.io-6f17d22bba15001f/sha-1-0.9.8/src/compress/soft.rs:
+/home/caleb/.cargo/registry/src/index.crates.io-6f17d22bba15001f/sha-1-0.9.8/src/compress/x86.rs:
